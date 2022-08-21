@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is version two of my software in github gitbash pull GITHUB DESKTOP checkkk
+=======
+this is version two of my software in github gitbash
+>>>>>>> parent of 6a9fc12 (Update index.txt)
